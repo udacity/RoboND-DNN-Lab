@@ -1,3 +1,9 @@
+# Deprecated Repository
+This repository is deprecated. Currently enrolled learners, if any, can: 
+- Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues.
+- [Submit a support ticket](https://udacity.zendesk.com/hc/en-us/requests/new) if (learners are) blocked due to other reasons. 
+
+
 # TensorFlow Deep Neural Network Lab
 [<img src="http://yaroslavvb.com/upload/notMNIST/nmn.png" alt="notMNIST dataset samples" />](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html)
 
